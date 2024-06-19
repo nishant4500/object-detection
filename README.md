@@ -2,8 +2,9 @@
 ## Example Output
 
 Here is an example of the output you can expect from running the script:
+Screenshot 2024-06-19 121308.png
 
-![Example Output](example_output.png)
+
 
 *The image above shows the detected objects with bounding boxes and labels.*
 
