@@ -1,14 +1,4 @@
 # Object Detection with OpenCV and SSD MobileNet v3
-## Example Output
-
-Here is an example of the output you can expect from running the script:
-Screenshot 2024-06-19 121308.png
-
-
-
-*The image above shows the detected objects with bounding boxes and labels.*
-
-
 ## Description
 
 This Python script leverages OpenCV and a pre-trained SSD MobileNet v3 deep learning model for real-time object detection in video streams. It utilizes the COCO (Common Objects in Context) dataset for object class recognition.
