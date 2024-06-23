@@ -1,5 +1,8 @@
 # Object Detection with OpenCV and SSD MobileNet v3
 ## Description
+![Screenshot 2024-06-19 121308](https://github.com/nishant4500/object-detection/assets/135944619/44175bfa-25f2-40e5-8f36-297ff2517fba)
+![Screenshot 2024-06-19 121106](https://github.com/nishant4500/object-detection/assets/135944619/158f42c7-2c72-4c48-b0dc-9bc55faaf7e2)
+
 
 This Python script leverages OpenCV and a pre-trained SSD MobileNet v3 deep learning model for real-time object detection in video streams. It utilizes the COCO (Common Objects in Context) dataset for object class recognition.
 
