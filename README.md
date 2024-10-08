@@ -81,8 +81,9 @@ This Python script leverages OpenCV and a pre-trained SSD MobileNet v3 deep lear
      cv2.destroyAllWindows()
      ```
 
-## License
+##  License
 
 This project is licensed under the MIT License.
+thannk 
 
 
