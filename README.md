@@ -1,4 +1,12 @@
 # Object Detection with OpenCV and SSD MobileNet v3
+
+## Table of Contents
+1. [Description](#description)
+2. [Requirements](#requirements)
+3. [Instructions](#instructions)
+4. [Code Breakdown](#code-breakdown)
+5. [License](#license)
+
 ## Description
 ![Screenshot 2024-06-19 121308](https://github.com/nishant4500/object-detection/assets/135944619/44175bfa-25f2-40e5-8f36-297ff2517fba)
 ![Screenshot 2024-06-19 121106](https://github.com/nishant4500/object-detection/assets/135944619/158f42c7-2c72-4c48-b0dc-9bc55faaf7e2)
