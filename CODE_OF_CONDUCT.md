@@ -4,7 +4,7 @@
 
 </div>
 
-# Purpose
+## Purpose
 
 The purpose of this Code of Conduct is to ensure a positive, respectful, and constructive environment for all contributors to this project. We value the participation of every individual and strive to create an inclusive and harassment-free experience, both within the project spaces and when representing the community in public. We pledge to act in ways that foster an open, welcoming, diverse, inclusive, and professional community.
 
@@ -13,9 +13,9 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to a respectful, inclusive, and healthy community.
 
-# Our Standards
+## Our Standards
 
-# Acceptable Behavior
+## Acceptable Behavior
 
 Examples of behavior that contributes to a positive environment for our community include:
 
@@ -25,7 +25,7 @@ Examples of behavior that contributes to a positive environment for our communit
 * Accountability: Acknowledging mistakes, apologizing to those affected, and learning from the experience.
 * Community First: Prioritizing what is best for the overall community.
 
-# Unacceptable Behavior
+## Unacceptable Behavior
 
 Examples of unacceptable behavior include:
 
